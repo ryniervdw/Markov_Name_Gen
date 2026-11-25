@@ -141,7 +141,7 @@ std::wstring Generate(
 
 Generates a name using the current model.
 
--   `start`: optional prefix that the generated name must begin with.
+-   `start`: optional prefix that the generated name must begin with (UPPERCASE).
 -   `minLength`: minimum total name length, including the prefix.
 -   `maxLength`: maximum total name length, including the prefix.
 
